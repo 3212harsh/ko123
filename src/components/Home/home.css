@@ -1,0 +1,6 @@
+.hero{
+    background-image: url('../../assets/wp.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
